@@ -8,17 +8,17 @@ Prerequisites and Installation
 
 Test Cases
 The following are examples of user typed input. The output text is what was copied to the clipboard when the user clicks the “Condense & Copy” button. 
-  Input:
-  Set up $10 million system at headquarters
-  Output:
-  - Set up $10 M system at HQ 
+  	
+	Input:
+  	Set up $10 million system at headquarters
+  	Output:
+  	- Set up $10 M system at HQ 
 
 	Input:
 	Led 100 airman with guidance from Captain America
 	Output:
 	- Led 100 Amn with guidance from Capt America 
 	
-
 
 Notes for Debugging, Testing, and Development
 	The System.out.println() function was used at various points in the code to see what data was being processed. There are a few of these lines commented out in useful locations for further testing. To save search time, the abbreviations CSV is put into a binary tree. However, because the CSV file can add special characters to the first entry, the binary tree may not be sorted properly. Also, to save time when adding large amounts of entries to the CSV files, it is recommended that all entries be added to CSV files manually. 
