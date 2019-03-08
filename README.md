@@ -46,7 +46,7 @@ abbreviations.
 
 	Additional User Requests:
 	- Only senior leadership should be able to add to abbreviations list; users can make quarterly
-	requests to add new words if needed
+	  requests to add new words if needed
 	- Application should have a feature that can highlight repeated words, unapproved
-	abbreviations, and commonly misused phrases for proofreading purposes
+	  abbreviations, and commonly misused phrases for proofreading purposes
 	- Application should only condense enough words to keep empty space to a minimum
