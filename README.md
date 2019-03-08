@@ -13,7 +13,7 @@ Java 8 is required to run the BulletAssistant.jar program. The recently released
 	sudo apt-get install openjfx
 	sudo update-alternatives --config java <-Press option 2 for Java 8
 	sudo reboot
-	java -version Should no longer be Java 11
+	java -version  <-Should no longer be Java 11
 	Double Click BulletAssistant.jar to open  <-Opening with “java -jar” will give compile error
 
 Test Cases
